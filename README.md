@@ -1,5 +1,3 @@
-# econ5200-lab01-data-portfolio
-
 # Data Quality Profiling — Big Mac Index
 
 ## Objective
